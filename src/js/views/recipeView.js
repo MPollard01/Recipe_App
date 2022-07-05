@@ -1,5 +1,6 @@
 import icons from 'url:../../img/icons.svg'; // Parcel 2
-import { Fraction } from 'fractional';
+//import { Fraction } from 'fractional';
+const Fraction = require('fractional');
 import View from './View';
 
 class RecipeView extends View {
