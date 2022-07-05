@@ -5,7 +5,7 @@
 132C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array-buffer\is-view.js121436361000000000 0
 120C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\nan\tools\package.json131359036360000000 0
 151C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\comparedocumentposition.js121436361000000000 0
-89C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist133014997739881791 1
+89C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist133015010158039781 1
 110C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib132899148824938562 1
 132C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\object\to-string.js121436361000000000 0
 95C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\.gitignore132562249780000000 0
@@ -195,7 +195,7 @@
 129C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\trim.js121436361000000000 0
 149C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\font-family-system-ui.js121436361000000000 0
 109C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\mod.ts121436361000000000 0
-101C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\src\js\config.js132900210325720921 0
+101C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\src\js\config.js133015010038031444 0
 127C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeViewBox.js121436361000000000 0
 105C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132990275047546302 0
 104C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\colord132899148834908844 1
@@ -2463,7 +2463,7 @@
 132C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\LICENSE-MIT121436361000000000 0
 130C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\README.md121436361000000000 0
 126C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-colormin\LICENSE-MIT121436361000000000 0
-111C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133014997739881791 0
+111C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133015010158039781 0
 122C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\postcss\lib\stringify.js121436361000000000 0
 143C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\require-object-coercible.js121436361000000000 0
 126C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\electron-to-chromium\LICENSE121436361000000000 0
@@ -7240,5 +7240,5 @@
 111C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.cmd132899149251156170 0
 113C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser.ps1132899149251156170 0
 108C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133014965842438134 0
-107C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133014997739881791 0
+107C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133015010157960235 0
 112C:\Users\markp\vscode-workspace\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133014965841238158 0
