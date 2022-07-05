@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "rm -rf ./dist && parcel build index.html --dist-dir ./dist"
   },
   "author": "Mark Pollard",
   "license": "ISC",
